@@ -25,3 +25,9 @@
     - [چطور یک رزومه جذاب بنویسیم از عرفان تحریری](https://www.youtube.com/watch?v=_kELCT8lMvU)
   - ### مقاله
     - [ده نکته برای یک رزومه کمتر افتضاح - مقاله قدیمی اما کاربردی](http://steve-yegge.blogspot.com/2007_09_01_archive.html)
+
+## مشارکت
+
+با خیال راحت مشارکت کنید و منابع بیشتری اضافه کنید.
+
+اولین بار است که مشارکت میکنید؟ برای اطلاعات بیشتر درباره ی مراحل و راهنما ها ، اینجا را ببینید : [اینجا](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.fa.md).
