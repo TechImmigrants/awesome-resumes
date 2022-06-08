@@ -22,7 +22,10 @@
 
 ---
 ## نمونه رزومه
-[نمونه رزومه - جاوا](resume-sample/java/)
+[نمونه رزومه - برنامه نویس جاوا](resume-samples/java/)
+[نمونه رزومه - برنامه نویس PHP](resume-samples/php/)
+[نمونه رزومه - برنامه نویس پایتون](resume-samples/python/)
+[نمونه رزومه - متخصص دوآپس](resume-samples/devops/)
 
 ---
 
